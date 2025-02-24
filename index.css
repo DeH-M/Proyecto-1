@@ -43,3 +43,7 @@ footer {
   padding: 2rem;
   text-align: center;
 }
+
+.text-justify {
+  text-align: justify;
+}
